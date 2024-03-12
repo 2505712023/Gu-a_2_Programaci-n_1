@@ -1,4 +1,4 @@
-# Gu-a_2_Programaci-n_1
+# Guia_2_Programacion_1
 Guía práctica Evaluación #2: Array, Arraylist y Listas
 
 Alumnos:
